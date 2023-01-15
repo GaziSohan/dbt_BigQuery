@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+     - name: fact_sales
+       description: "Sales table with order info"
